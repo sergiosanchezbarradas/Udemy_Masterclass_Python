@@ -1,12 +1,11 @@
 computer_parts = ["monitor",
-                  "mouse",
+                  "trackball",
                   "keyboard",
                   "mouse pad",
                   "cpu"
                   ]
-for part in computer_parts:
-    print(part)
-print()
-print(computer_parts[3])
-print(computer_parts[0:3]) #up to but not including.
-print(computer_parts[-1]) #prints last
+
+print(computer_parts)
+
+computer_parts[1] = "megamouse"
+print(computer_parts)
