@@ -1,0 +1,6 @@
+[submodule "sequences"]
+	path = sequences
+	url = https://github.com/sergiosanchezbarradas/Udemy_Masterclass_Python/tree/main/sequences
+[submodule "projectpythonlaptophp"]
+	path = projectpythonlaptophp
+	url = https://github.com/sergiosanchezbarradas/Udemy_Masterclass_Python/tree/main/projectpythonlaptophp
