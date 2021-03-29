@@ -29,4 +29,8 @@ print(myorder.format(quantity, itemno, price))
 thislist = ["apple", "banana", "cherry"]
 thistuple = ("kiwi", "orange")
 thislist.extend(thistuple)
-print(thislist) 
+print(thislist)
+
+
+def shuffle():
+    return None
