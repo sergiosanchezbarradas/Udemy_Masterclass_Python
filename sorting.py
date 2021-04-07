@@ -11,9 +11,9 @@ print(missingletter)
 names = ["Jose",
          "Pepe",
          "pepe",
+         "joselito",
          "eric",
          "Terry",
-         "joselito",
         ]
 names.sort(key=str.casefold)
 print(names)
