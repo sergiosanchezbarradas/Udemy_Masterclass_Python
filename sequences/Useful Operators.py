@@ -17,4 +17,3 @@ for index,letter in enumerate(word):
     print(letter)
     print('\n')
 
-from random import shuffle
