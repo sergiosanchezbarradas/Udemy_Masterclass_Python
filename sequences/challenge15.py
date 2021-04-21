@@ -37,3 +37,13 @@ albums = [
      ]
      ),
 ]
+
+# Add your code below this comment.
+thewayi = albums[1][3][5][1]
+print(thewayi)
+year_night = albums[2][2]
+print(year_night)
+track = albums[3][3][3][0]
+print(track)
+tuple_keeping = albums[2][3][1]
+print(tuple_keeping)
